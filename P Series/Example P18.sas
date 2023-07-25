@@ -1,0 +1,21 @@
+libname sasout '\\Client\D$\M338 SAS\Data Files';
+data aggdata;
+*set sasout.gradQ;
+*set sasout.undergradQ;
+*set sasout.undergradH;
+*set sasout.undergradQ sasout.undergradH;
+merge sasout.undergradQ sasout.undergradH;
+*set sasout.gradQ;
+*merge sasout.undergradH sasout.undergradQ ;
+*set sasout.undergradH sasout.undergradQ ;
+*set sasout.undergradQ sasout.gradQ ;
+*set sasout.undergradH sasout.gradQ ;
+*merge sasout.gradQ sasout.undergradQ;
+*merge sasout.undergradQ sasout.gradQ;
+run;
+data aggdata;
+set aggdata1 sasout.gradQ;
+run;
+
+proc print data=aggdata;
+run;

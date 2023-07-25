@@ -1,0 +1,30 @@
+*options nodate pageno = 1 pagesize = 50 center linesize = 90;
+libname datain 'C:\Users\mrkafai\Dropbox\ClassesSpring2021\Math338\Data';
+/*****************************************************/
+data datain.newstate;
+*set 'C:\Users\mrkafai\Dropbox\ClassesSpring2021\Math338\Data\statedat';
+set datain.statedat;
+
+sale = sale * 10000;
+expenses = expenses * 1000;
+
+*if visits > 1 then delete;
+
+run;
+proc contents;
+run;
+/*******************************************************/
+proc print data=datain.statedat;
+run;
+
+proc print data=datain.newstate;
+run;
+/********************************************************
+proc options ;
+run;
+
+
+
+
+
+
