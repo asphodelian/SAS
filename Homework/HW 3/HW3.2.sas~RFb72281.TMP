@@ -1,0 +1,35 @@
+/***** HW3 Q2** Gabrielle Salamanca *****/
+options nodate;
+/***Q3.2A: short\long***/
+data shortlong;
+
+call streaminit(0);
+
+n =10000;
+headnum = 0;
+
+do i = 1 to n ;
+	x = rand('uniform',0,1);
+	if x > 0.5 then do;
+		toss = 'head';
+		headnum = headnum + 1;
+ 		end ;
+ 	else toss = 'tail';
+    *prob = headnum / n ;
+  *output;
+end;
+prob = headnum / n ;
+output;
+end;
+run;
+proc means data = uniform;
+var M;
+title 'Mean M: Gabrielle Salamanca';
+run;
+proc gplot;
+plot prob*i;
+title 'Plot of M: Gabrielle Salamanca';
+run;
+/***Q3.2B: long\short***/
+/***********************************/
+quit;

@@ -1,0 +1,129 @@
+                                                                                             11
+
+         Obs    state             region      visits    salesman     sale     expenses
+
+           1    Delaware         Northeast       1          1       120000      1000
+           2    Rhode Island     Northeast       1          1       180000      1000
+           3    West Virginia    Southeast       1          1       260000      2000
+           4    Nevada           Southwest       1          1       290000      1000
+           5    Idiana           Northeast       2          2       340000      2000
+           6    Maine            Northeast       2          1       300000      1000
+           7    New Hampshire    Northeast       2          2       290000      1000
+           8    Vermont          Northeast       2          2       280000      1000
+           9    Nebraska         Northwest       2          3       800000      2000
+          10    Kentucky         Southeast       2          1       390000      2000
+          11    Virginia         Southeast       2          3       460000      4000
+          12    Utah             Southwest       2          3       780000      6000
+          13    Connecticut      Northeast       3          1       530000      3000
+          14    Maryland         Northeast       3          3       600000      4000
+          15    Massachusetts    Northeast       3          2       510000      5000
+          16    New Jersey       Northeast       3          3       520000      6000
+          17    Ohio             Northeast       3          4       450000      5000
+          18    Pennsylvania     Northeast       3          5       480000      6000
+          19    Oregon           Northwest       3          4       600000      5000
+          20    Washington       Northwest       3          4       650000      6000
+          21    Arkansas         Southeast       3          1       520000      1000
+          22    Lousiana         Southeast       3          2       480000      4000
+          23    Missouri         Southeast       3          3       530000      5000
+          24    New Mexico       Southwest       3          2       680000      4000
+          25    Oklahoma         Southwest       3          3       540000      4000
+          26    Iowa             Northeast       4          2       360000      3000
+          27    Michigan         Northeast       4          4       300000      6000
+          28    Minnesota        Northeast       4          3       320000      2000
+          29    Wisconsin        Northeast       4          3       310000      3000
+          30    Idaho            Northwest       4          3       600000      2000
+          31    Montana          Northwest       4          2       620000      3000
+          32    Wyoming          Northwest       4          2       590000      5000
+          33    Alabama          Southeast       4          2       600000      4000
+          34    Arizona          Southeast       4          3       810000      5000
+          35    Georgia          Southeast       4          2       580000      2000
+          36    Missisippi       Southeast       4          2       620000      4000
+          37    Tennessee        Southeast       4          2       550000      3000
+          38    Colorado         Southwest       4          3       650000      4000
+          39    Kansas           Southwest       4          3       700000      4000
+                              Question 1B.ii: Gabrielle Salamanca                            12
+
+         Obs    state             region      visits    salesman     sale     expenses
+
+           1    Delaware         Northeast       1          1       120000      1000
+           2    Rhode Island     Northeast       1          1       180000      1000
+           3    West Virginia    Southeast       1          1       260000      2000
+           4    Nevada           Southwest       1          1       290000      1000
+           5    Idiana           Northeast       2          2       340000      2000
+           6    Maine            Northeast       2          1       300000      1000
+           7    New Hampshire    Northeast       2          2       290000      1000
+           8    Vermont          Northeast       2          2       280000      1000
+           9    Nebraska         Northwest       2          3       800000      2000
+          10    Kentucky         Southeast       2          1       390000      2000
+          11    Virginia         Southeast       2          3       460000      4000
+          12    Utah             Southwest       2          3       780000      6000
+          13    Connecticut      Northeast       3          1       530000      3000
+          14    Maryland         Northeast       3          3       600000      4000
+          15    Massachusetts    Northeast       3          2       510000      5000
+          16    New Jersey       Northeast       3          3       520000      6000
+          17    Ohio             Northeast       3          4       450000      5000
+          18    Pennsylvania     Northeast       3          5       480000      6000
+          19    Oregon           Northwest       3          4       600000      5000
+          20    Washington       Northwest       3          4       650000      6000
+          21    Arkansas         Southeast       3          1       520000      1000
+          22    Lousiana         Southeast       3          2       480000      4000
+          23    Missouri         Southeast       3          3       530000      5000
+          24    New Mexico       Southwest       3          2       680000      4000
+          25    Oklahoma         Southwest       3          3       540000      4000
+          26    Iowa             Northeast       4          2       360000      3000
+          27    Michigan         Northeast       4          4       300000      6000
+          28    Minnesota        Northeast       4          3       320000      2000
+          29    Wisconsin        Northeast       4          3       310000      3000
+          30    Idaho            Northwest       4          3       600000      2000
+          31    Montana          Northwest       4          2       620000      3000
+          32    Wyoming          Northwest       4          2       590000      5000
+          33    Alabama          Southeast       4          2       600000      4000
+          34    Arizona          Southeast       4          3       810000      5000
+          35    Georgia          Southeast       4          2       580000      2000
+          36    Missisippi       Southeast       4          2       620000      4000
+          37    Tennessee        Southeast       4          2       550000      3000
+          38    Colorado         Southwest       4          3       650000      4000
+          39    Kansas           Southwest       4          3       700000      4000
+                              Question 1B.ii: Gabrielle Salamanca                            13
+
+         Obs    state             region      visits    salesman     sale     expenses
+
+           1    Delaware         Northeast       1          1       120000      1000
+           2    Rhode Island     Northeast       1          1       180000      1000
+           3    West Virginia    Southeast       1          1       260000      2000
+           4    Nevada           Southwest       1          1       290000      1000
+           5    Idiana           Northeast       2          2       340000      2000
+           6    Maine            Northeast       2          1       300000      1000
+           7    New Hampshire    Northeast       2          2       290000      1000
+           8    Vermont          Northeast       2          2       280000      1000
+           9    Nebraska         Northwest       2          3       800000      2000
+          10    Kentucky         Southeast       2          1       390000      2000
+          11    Virginia         Southeast       2          3       460000      4000
+          12    Utah             Southwest       2          3       780000      6000
+          13    Connecticut      Northeast       3          1       530000      3000
+          14    Maryland         Northeast       3          3       600000      4000
+          15    Massachusetts    Northeast       3          2       510000      5000
+          16    New Jersey       Northeast       3          3       520000      6000
+          17    Ohio             Northeast       3          4       450000      5000
+          18    Pennsylvania     Northeast       3          5       480000      6000
+          19    Oregon           Northwest       3          4       600000      5000
+          20    Washington       Northwest       3          4       650000      6000
+          21    Arkansas         Southeast       3          1       520000      1000
+          22    Lousiana         Southeast       3          2       480000      4000
+          23    Missouri         Southeast       3          3       530000      5000
+          24    New Mexico       Southwest       3          2       680000      4000
+          25    Oklahoma         Southwest       3          3       540000      4000
+          26    Iowa             Northeast       4          2       360000      3000
+          27    Michigan         Northeast       4          4       300000      6000
+          28    Minnesota        Northeast       4          3       320000      2000
+          29    Wisconsin        Northeast       4          3       310000      3000
+          30    Idaho            Northwest       4          3       600000      2000
+          31    Montana          Northwest       4          2       620000      3000
+          32    Wyoming          Northwest       4          2       590000      5000
+          33    Alabama          Southeast       4          2       600000      4000
+          34    Arizona          Southeast       4          3       810000      5000
+          35    Georgia          Southeast       4          2       580000      2000
+          36    Missisippi       Southeast       4          2       620000      4000
+          37    Tennessee        Southeast       4          2       550000      3000
+          38    Colorado         Southwest       4          3       650000      4000
+          39    Kansas           Southwest       4          3       700000      4000
